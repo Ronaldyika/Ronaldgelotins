@@ -1,2 +1,5 @@
 # Ronaldgelotins
-landing page
+landing 
+nav-bar
+icons
+color-codes
